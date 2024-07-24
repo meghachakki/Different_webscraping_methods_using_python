@@ -15,26 +15,10 @@ To set up this project, follow these steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/web-scraping-w3schools.git
-    cd web-scraping-w3schools
+    git clone https://github.com/meghachakki/Different_webscraping_methods_using_python.git
+    https://github.com/meghachakki/Different_webscraping_methods_using_python.git
+    cd Different_webscraping_methods_using_python
     ```
 
-2. **Create a virtual environment** (optional but recommended):
 
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
 
-3. **Install the required libraries**:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-To run the web scraping script and extract tutorial links, execute the following command:
-
-```bash
-python scrape_w3schools.py
